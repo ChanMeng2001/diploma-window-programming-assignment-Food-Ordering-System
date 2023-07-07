@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\NewGA\bin\Debug\NewGA.exe.config
+C:\Users\user\source\repos\NewGA\bin\Debug\NewGA.exe
+C:\Users\user\source\repos\NewGA\bin\Debug\NewGA.pdb
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.frmLogin.resources
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.frmMain.resources
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.Properties.Resources.resources
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.frmRegister.resources
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.exe
+C:\Users\user\source\repos\NewGA\obj\Debug\NewGA.pdb
